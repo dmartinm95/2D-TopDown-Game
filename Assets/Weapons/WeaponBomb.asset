@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3312f046a243154fad1b03f278e6e8e, type: 3}
+  m_Name: WeaponBomb
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 8551364945079161636, guid: fbc15a49e37f54f47955335a2631be65,
+    type: 3}
+  fireRate: 1
+  shootEffect: {fileID: 0}
+  shootSound: {fileID: 8300000, guid: 2ca1854c93d52f246b37110d72880171, type: 3}
+  shootsRaycasts: 0
+  raycastDamage: 0
